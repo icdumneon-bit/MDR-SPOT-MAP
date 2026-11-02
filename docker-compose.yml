@@ -1,0 +1,13 @@
+services:
+  mdr-spotmap:
+    build: .
+    container_name: mdr-spotmap
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+    volumes:
+      # Persist the shared database so updates are kept across container restarts
+      - ./data:/app/data
