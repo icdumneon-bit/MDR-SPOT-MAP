@@ -96,11 +96,24 @@ docker compose up -d
 
 ---
 
-### ⚠️ หมายเหตุเกี่ยวกับ GitHub Pages (Static Hosting)
-- **GitHub Pages** รองรับเฉพาะไฟล์ Static HTML/JS เท่านั้น (ไม่สามารถรัน Node.js Express Server สำหรับเขียนไฟล์ฐานข้อมูลกลางลง Disk ได้)
-- อย่างไรก็ตาม โค้ดของระบบนี้ได้เตรียมระบบ **Fallback (LocalStorage)** ไว้:
-  - หากนำไปเปิดบน GitHub Pages ระบบจะยังสามารถเปิดดู ค้นหา เพิ่ม/แก้ไขเคส และ Export ไฟล์ Excel/CSV ได้ตามปกติ โดยข้อมูลจะถูกบันทึกไว้ในเบราว์เซอร์ของเครื่องผู้ใช้งาน
-  - หากต้องการให้ **"ทุกคนแก้ไขไฟล์ฐานข้อมูลเดียวกันได้แบบ Real-time"** แนะนำให้ใช้ **วิธีที่ 1 (Intranet รพ.)** หรือ **วิธีที่ 2 (Render/Railway/Cloud)**
+### ⚠️ วิธีแก้ปัญหา "จอขาว" เมื่อรันบน GitHub Pages (เกิดจากอะไร + วิธีแก้)
+
+อาการ **จอขาว (Blank White Screen)** บน GitHub Pages มักเกิดจาก **2 สาเหตุหลัก** ดังนี้:
+
+#### สาเหตุที่ 1: พาธของไฟล์ Assets ชี้ไปที่ Root (`/assets/...`) แทนที่จะเป็น Relative (`./assets/...`)
+- บน GitHub Pages เว็บจะอยู่ใต้ URL ซับโฟลเดอร์ เช่น `https://<username>.github.io/<repo-name>/`
+- หากไม่ได้ตั้งค่า Base Path บราวเซอร์จะวิ่งไปหาไฟล์ JS/CSS ที่ `https://<username>.github.io/assets/...` (ทำให้เกิด Error 404 หาไฟล์สคริปต์ไม่เจอ หน้าเว็บจึงแสดงจอขาว)
+- **วิธีแก้:** เราได้ทำการเพิ่ม `base: './'` ลงใน `vite.config.ts` เรียบร้อยแล้ว ทำให้สามารถรันบน GitHub Pages ได้ทุกชื่อ Repo
+
+#### สาเหตุที่ 2: ตั้งค่า GitHub Pages ให้เปิดจากโฟลเดอร์ต้นฉบับ (Root) แทนที่จะ Build ก่อน
+- โปรเจกต์นี้เขียนด้วย **React + TypeScript** (`.tsx`) บราวเซอร์ทั่วไปไม่สามารถอ่านโค้ด TypeScript ตรงๆ ได้ ต้องผ่านขั้นตอน Build เป็น HTML/JS/CSS (`dist/`) เสียก่อน
+- **วิธีแก้ที่ง่ายที่สุด (ผ่าน GitHub Actions อัตโนมัติ):**
+  1. เราได้สร้างไฟล์ `.github/workflows/deploy.yml` ไว้ให้เรียบร้อยแล้ว
+  2. ให้ Push โค้ดขึ้น GitHub ตามปกติ
+  3. ไปที่ GitHub Repository ของคุณ -> เมนู **Settings** ด้านบน
+  4. เมนูด้านซ้ายเลือก **Pages**
+  5. ตรงหัวข้อ **Build and deployment** > **Source** ให้เปลี่ยนจาก "Deploy from a branch" เป็น **"GitHub Actions"**
+  6. GitHub จะทำการ Build โค้ดและ Deploy ขึ้นเว็บให้อัตโนมัติใน 1-2 นาที จอขาวจะหายไปทันที!
 
 ---
 
