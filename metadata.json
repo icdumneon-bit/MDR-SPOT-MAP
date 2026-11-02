@@ -1,0 +1,6 @@
+{
+  "name": "MDR Spot Map Surveillance",
+  "description": "ระบบเฝ้าระวังและแสดงตาราง Spot Map เชื้อดื้อยารายวัน แยกตามหอผู้ป่วย แยกกล่องชื่อเชื้อและสิ่งส่งตรวจ พร้อมเลือกดูรายหน่วยงานและส่งออกรายงาน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

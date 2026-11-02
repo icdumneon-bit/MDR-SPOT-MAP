@@ -1,0 +1,6282 @@
+{
+  "cases": [
+    {
+      "id": "case-1-1",
+      "day": 1,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. Baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-2-1",
+      "day": 2,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-3-1",
+      "day": 3,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-3-2",
+      "day": 3,
+      "wardId": "med_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-3-3",
+      "day": 3,
+      "wardId": "med_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-3-4",
+      "day": 3,
+      "wardId": "surg_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-3-5",
+      "day": 3,
+      "wardId": "ortho",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-4-1",
+      "day": 4,
+      "wardId": "cpk_5",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-4-2",
+      "day": 4,
+      "wardId": "cpk_2",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-5-1",
+      "day": 5,
+      "wardId": "pediatric",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-6-1",
+      "day": 6,
+      "wardId": "cpk_6",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 2,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-8-1",
+      "day": 8,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-8-2",
+      "day": 8,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-8-3",
+      "day": 8,
+      "wardId": "med_male",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-9-1",
+      "day": 9,
+      "wardId": "med_special_7",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 2,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-10-1",
+      "day": 10,
+      "wardId": "pediatric",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CoRO)",
+      "specimen": "เลือด",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-12-1",
+      "day": 12,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-12-2",
+      "day": 12,
+      "wardId": "ortho",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-12-3",
+      "day": 12,
+      "wardId": "ob_gyn",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-13-1",
+      "day": 13,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-13-2",
+      "day": 13,
+      "wardId": "med_male",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-14-1",
+      "day": 14,
+      "wardId": "pediatric",
+      "organism": "Staphylococcus haemolyticus",
+      "resistanceGroup": "CoNS อื่นๆ (MRSE)",
+      "specimen": "เลือด",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-14-2",
+      "day": 14,
+      "wardId": "cpk_5",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-15-1",
+      "day": 15,
+      "wardId": "icu",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "อื่นๆ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-16-1",
+      "day": 16,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-16-2",
+      "day": 16,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-16-3",
+      "day": 16,
+      "wardId": "surg_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-16-4",
+      "day": 16,
+      "wardId": "surg_male",
+      "organism": "Pseudomonas stutzeri",
+      "resistanceGroup": "อื่นๆ (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-18-1",
+      "day": 18,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-20-1",
+      "day": 20,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-22-1",
+      "day": 22,
+      "wardId": "surg_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "อื่นๆ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-22-2",
+      "day": 22,
+      "wardId": "cpk_6",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-22-3",
+      "day": 22,
+      "wardId": "cpk_6",
+      "organism": "Staphylococcus capitis",
+      "resistanceGroup": "CoNS อื่นๆ (MRSE)",
+      "specimen": "เลือด",
+      "count": 2,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-24-1",
+      "day": 24,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-26-1",
+      "day": 26,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 2,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-26-2",
+      "day": 26,
+      "wardId": "surg_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-27-1",
+      "day": 27,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-27-2",
+      "day": 27,
+      "wardId": "med_female",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "อื่นๆ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-28-1",
+      "day": 28,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-28-2",
+      "day": 28,
+      "wardId": "pediatric",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-29-1",
+      "day": 29,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-29-2",
+      "day": 29,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 2,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-30-1",
+      "day": 30,
+      "wardId": "surg_male",
+      "organism": "Pseudomonas stutzeri",
+      "resistanceGroup": "อื่นๆ (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-30-2",
+      "day": 30,
+      "wardId": "hemodialysis",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "case-31-1",
+      "day": 31,
+      "wardId": "cpk_6",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1,
+      "year": 2568,
+      "month": 10
+    },
+    {
+      "id": "fy-2568-m11-c1",
+      "year": 2568,
+      "month": 11,
+      "day": 22,
+      "wardId": "ortho",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2568-m11-c2",
+      "year": 2568,
+      "month": 11,
+      "day": 26,
+      "wardId": "custom_dept_1",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c3",
+      "year": 2568,
+      "month": 11,
+      "day": 30,
+      "wardId": "med_female",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c4",
+      "year": 2568,
+      "month": 11,
+      "day": 4,
+      "wardId": "pediatric",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c5",
+      "year": 2568,
+      "month": 11,
+      "day": 8,
+      "wardId": "ob_gyn",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c6",
+      "year": 2568,
+      "month": 11,
+      "day": 7,
+      "wardId": "med_male",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c7",
+      "year": 2568,
+      "month": 11,
+      "day": 11,
+      "wardId": "cpk_6",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c8",
+      "year": 2568,
+      "month": 11,
+      "day": 15,
+      "wardId": "hemodialysis",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c9",
+      "year": 2568,
+      "month": 11,
+      "day": 19,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c10",
+      "year": 2568,
+      "month": 11,
+      "day": 23,
+      "wardId": "icu",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c11",
+      "year": 2568,
+      "month": 11,
+      "day": 22,
+      "wardId": "med_special_7",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c12",
+      "year": 2568,
+      "month": 11,
+      "day": 26,
+      "wardId": "med_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2568-m11-c13",
+      "year": 2568,
+      "month": 11,
+      "day": 30,
+      "wardId": "surg_male",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c14",
+      "year": 2568,
+      "month": 11,
+      "day": 4,
+      "wardId": "cpk_5",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c15",
+      "year": 2568,
+      "month": 11,
+      "day": 8,
+      "wardId": "custom_dept_2",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c16",
+      "year": 2568,
+      "month": 11,
+      "day": 7,
+      "wardId": "med_female",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c17",
+      "year": 2568,
+      "month": 11,
+      "day": 11,
+      "wardId": "ortho",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c18",
+      "year": 2568,
+      "month": 11,
+      "day": 15,
+      "wardId": "custom_dept_1",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c19",
+      "year": 2568,
+      "month": 11,
+      "day": 19,
+      "wardId": "med_female",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c20",
+      "year": 2568,
+      "month": 11,
+      "day": 23,
+      "wardId": "pediatric",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c21",
+      "year": 2568,
+      "month": 11,
+      "day": 22,
+      "wardId": "ob_gyn",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c22",
+      "year": 2568,
+      "month": 11,
+      "day": 26,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c23",
+      "year": 2568,
+      "month": 11,
+      "day": 30,
+      "wardId": "cpk_6",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 2
+    },
+    {
+      "id": "fy-2568-m11-c24",
+      "year": 2568,
+      "month": 11,
+      "day": 4,
+      "wardId": "hemodialysis",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c25",
+      "year": 2568,
+      "month": 11,
+      "day": 8,
+      "wardId": "med_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c26",
+      "year": 2568,
+      "month": 11,
+      "day": 7,
+      "wardId": "icu",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c27",
+      "year": 2568,
+      "month": 11,
+      "day": 11,
+      "wardId": "med_special_7",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c28",
+      "year": 2568,
+      "month": 11,
+      "day": 15,
+      "wardId": "med_male",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c29",
+      "year": 2568,
+      "month": 11,
+      "day": 19,
+      "wardId": "surg_male",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c30",
+      "year": 2568,
+      "month": 11,
+      "day": 23,
+      "wardId": "cpk_5",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c31",
+      "year": 2568,
+      "month": 11,
+      "day": 22,
+      "wardId": "custom_dept_2",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c32",
+      "year": 2568,
+      "month": 11,
+      "day": 26,
+      "wardId": "med_female",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c33",
+      "year": 2568,
+      "month": 11,
+      "day": 30,
+      "wardId": "ortho",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c34",
+      "year": 2568,
+      "month": 11,
+      "day": 4,
+      "wardId": "custom_dept_1",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 2
+    },
+    {
+      "id": "fy-2568-m11-c35",
+      "year": 2568,
+      "month": 11,
+      "day": 8,
+      "wardId": "med_female",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c36",
+      "year": 2568,
+      "month": 11,
+      "day": 7,
+      "wardId": "pediatric",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c37",
+      "year": 2568,
+      "month": 11,
+      "day": 11,
+      "wardId": "ob_gyn",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c38",
+      "year": 2568,
+      "month": 11,
+      "day": 15,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c39",
+      "year": 2568,
+      "month": 11,
+      "day": 19,
+      "wardId": "cpk_6",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c40",
+      "year": 2568,
+      "month": 11,
+      "day": 23,
+      "wardId": "hemodialysis",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m11-c41",
+      "year": 2568,
+      "month": 11,
+      "day": 22,
+      "wardId": "med_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c1",
+      "year": 2568,
+      "month": 12,
+      "day": 12,
+      "wardId": "med_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 2
+    },
+    {
+      "id": "fy-2568-m12-c2",
+      "year": 2568,
+      "month": 12,
+      "day": 16,
+      "wardId": "cpk_6",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c3",
+      "year": 2568,
+      "month": 12,
+      "day": 20,
+      "wardId": "hemodialysis",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c4",
+      "year": 2568,
+      "month": 12,
+      "day": 24,
+      "wardId": "med_male",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c5",
+      "year": 2568,
+      "month": 12,
+      "day": 28,
+      "wardId": "icu",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c6",
+      "year": 2568,
+      "month": 12,
+      "day": 27,
+      "wardId": "med_special_7",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c7",
+      "year": 2568,
+      "month": 12,
+      "day": 31,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c8",
+      "year": 2568,
+      "month": 12,
+      "day": 4,
+      "wardId": "surg_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c9",
+      "year": 2568,
+      "month": 12,
+      "day": 8,
+      "wardId": "cpk_5",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c10",
+      "year": 2568,
+      "month": 12,
+      "day": 12,
+      "wardId": "custom_dept_2",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c11",
+      "year": 2568,
+      "month": 12,
+      "day": 11,
+      "wardId": "med_female",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c12",
+      "year": 2568,
+      "month": 12,
+      "day": 15,
+      "wardId": "ortho",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 2
+    },
+    {
+      "id": "fy-2568-m12-c13",
+      "year": 2568,
+      "month": 12,
+      "day": 19,
+      "wardId": "custom_dept_1",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c14",
+      "year": 2568,
+      "month": 12,
+      "day": 23,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c15",
+      "year": 2568,
+      "month": 12,
+      "day": 27,
+      "wardId": "pediatric",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c16",
+      "year": 2568,
+      "month": 12,
+      "day": 26,
+      "wardId": "ob_gyn",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c17",
+      "year": 2568,
+      "month": 12,
+      "day": 30,
+      "wardId": "med_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c18",
+      "year": 2568,
+      "month": 12,
+      "day": 3,
+      "wardId": "cpk_6",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c19",
+      "year": 2568,
+      "month": 12,
+      "day": 7,
+      "wardId": "hemodialysis",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c20",
+      "year": 2568,
+      "month": 12,
+      "day": 11,
+      "wardId": "med_male",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c21",
+      "year": 2568,
+      "month": 12,
+      "day": 10,
+      "wardId": "icu",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c22",
+      "year": 2568,
+      "month": 12,
+      "day": 14,
+      "wardId": "med_special_7",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c23",
+      "year": 2568,
+      "month": 12,
+      "day": 18,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 2
+    },
+    {
+      "id": "fy-2568-m12-c24",
+      "year": 2568,
+      "month": 12,
+      "day": 22,
+      "wardId": "surg_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c25",
+      "year": 2568,
+      "month": 12,
+      "day": 26,
+      "wardId": "cpk_5",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c26",
+      "year": 2568,
+      "month": 12,
+      "day": 25,
+      "wardId": "custom_dept_2",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c27",
+      "year": 2568,
+      "month": 12,
+      "day": 29,
+      "wardId": "med_female",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c28",
+      "year": 2568,
+      "month": 12,
+      "day": 2,
+      "wardId": "ortho",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c29",
+      "year": 2568,
+      "month": 12,
+      "day": 6,
+      "wardId": "custom_dept_1",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c30",
+      "year": 2568,
+      "month": 12,
+      "day": 10,
+      "wardId": "med_female",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c31",
+      "year": 2568,
+      "month": 12,
+      "day": 9,
+      "wardId": "pediatric",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c32",
+      "year": 2568,
+      "month": 12,
+      "day": 13,
+      "wardId": "ob_gyn",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c33",
+      "year": 2568,
+      "month": 12,
+      "day": 17,
+      "wardId": "med_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c34",
+      "year": 2568,
+      "month": 12,
+      "day": 21,
+      "wardId": "cpk_6",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 2
+    },
+    {
+      "id": "fy-2568-m12-c35",
+      "year": 2568,
+      "month": 12,
+      "day": 25,
+      "wardId": "hemodialysis",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c36",
+      "year": 2568,
+      "month": 12,
+      "day": 24,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c37",
+      "year": 2568,
+      "month": 12,
+      "day": 28,
+      "wardId": "icu",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c38",
+      "year": 2568,
+      "month": 12,
+      "day": 1,
+      "wardId": "med_special_7",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2568-m12-c39",
+      "year": 2568,
+      "month": 12,
+      "day": 5,
+      "wardId": "med_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c1",
+      "year": 2569,
+      "month": 1,
+      "day": 2,
+      "wardId": "med_special_7",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m1-c2",
+      "year": 2569,
+      "month": 1,
+      "day": 6,
+      "wardId": "med_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c3",
+      "year": 2569,
+      "month": 1,
+      "day": 10,
+      "wardId": "surg_male",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c4",
+      "year": 2569,
+      "month": 1,
+      "day": 14,
+      "wardId": "cpk_5",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c5",
+      "year": 2569,
+      "month": 1,
+      "day": 18,
+      "wardId": "custom_dept_2",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c6",
+      "year": 2569,
+      "month": 1,
+      "day": 17,
+      "wardId": "med_female",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c7",
+      "year": 2569,
+      "month": 1,
+      "day": 21,
+      "wardId": "ortho",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c8",
+      "year": 2569,
+      "month": 1,
+      "day": 25,
+      "wardId": "custom_dept_1",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c9",
+      "year": 2569,
+      "month": 1,
+      "day": 29,
+      "wardId": "med_female",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c10",
+      "year": 2569,
+      "month": 1,
+      "day": 2,
+      "wardId": "pediatric",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c11",
+      "year": 2569,
+      "month": 1,
+      "day": 1,
+      "wardId": "ob_gyn",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c12",
+      "year": 2569,
+      "month": 1,
+      "day": 5,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m1-c13",
+      "year": 2569,
+      "month": 1,
+      "day": 9,
+      "wardId": "cpk_6",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c14",
+      "year": 2569,
+      "month": 1,
+      "day": 13,
+      "wardId": "hemodialysis",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c15",
+      "year": 2569,
+      "month": 1,
+      "day": 17,
+      "wardId": "med_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c16",
+      "year": 2569,
+      "month": 1,
+      "day": 16,
+      "wardId": "icu",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c17",
+      "year": 2569,
+      "month": 1,
+      "day": 20,
+      "wardId": "med_special_7",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c18",
+      "year": 2569,
+      "month": 1,
+      "day": 24,
+      "wardId": "med_male",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c19",
+      "year": 2569,
+      "month": 1,
+      "day": 28,
+      "wardId": "surg_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c20",
+      "year": 2569,
+      "month": 1,
+      "day": 1,
+      "wardId": "cpk_5",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c21",
+      "year": 2569,
+      "month": 1,
+      "day": 31,
+      "wardId": "custom_dept_2",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c22",
+      "year": 2569,
+      "month": 1,
+      "day": 4,
+      "wardId": "med_female",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c23",
+      "year": 2569,
+      "month": 1,
+      "day": 8,
+      "wardId": "ortho",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m1-c24",
+      "year": 2569,
+      "month": 1,
+      "day": 12,
+      "wardId": "custom_dept_1",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c25",
+      "year": 2569,
+      "month": 1,
+      "day": 16,
+      "wardId": "med_female",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c26",
+      "year": 2569,
+      "month": 1,
+      "day": 15,
+      "wardId": "pediatric",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c27",
+      "year": 2569,
+      "month": 1,
+      "day": 19,
+      "wardId": "ob_gyn",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c28",
+      "year": 2569,
+      "month": 1,
+      "day": 23,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c29",
+      "year": 2569,
+      "month": 1,
+      "day": 27,
+      "wardId": "cpk_6",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c30",
+      "year": 2569,
+      "month": 1,
+      "day": 31,
+      "wardId": "hemodialysis",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c31",
+      "year": 2569,
+      "month": 1,
+      "day": 30,
+      "wardId": "med_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c32",
+      "year": 2569,
+      "month": 1,
+      "day": 3,
+      "wardId": "icu",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c33",
+      "year": 2569,
+      "month": 1,
+      "day": 7,
+      "wardId": "med_special_7",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c34",
+      "year": 2569,
+      "month": 1,
+      "day": 11,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m1-c35",
+      "year": 2569,
+      "month": 1,
+      "day": 15,
+      "wardId": "surg_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c36",
+      "year": 2569,
+      "month": 1,
+      "day": 14,
+      "wardId": "cpk_5",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c37",
+      "year": 2569,
+      "month": 1,
+      "day": 18,
+      "wardId": "custom_dept_2",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c38",
+      "year": 2569,
+      "month": 1,
+      "day": 22,
+      "wardId": "med_female",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c39",
+      "year": 2569,
+      "month": 1,
+      "day": 26,
+      "wardId": "ortho",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c40",
+      "year": 2569,
+      "month": 1,
+      "day": 30,
+      "wardId": "custom_dept_1",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c41",
+      "year": 2569,
+      "month": 1,
+      "day": 29,
+      "wardId": "med_female",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c42",
+      "year": 2569,
+      "month": 1,
+      "day": 2,
+      "wardId": "pediatric",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c43",
+      "year": 2569,
+      "month": 1,
+      "day": 6,
+      "wardId": "ob_gyn",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m1-c44",
+      "year": 2569,
+      "month": 1,
+      "day": 10,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c1",
+      "year": 2569,
+      "month": 2,
+      "day": 1,
+      "wardId": "med_female",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m2-c2",
+      "year": 2569,
+      "month": 2,
+      "day": 5,
+      "wardId": "ortho",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c3",
+      "year": 2569,
+      "month": 2,
+      "day": 9,
+      "wardId": "custom_dept_1",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c4",
+      "year": 2569,
+      "month": 2,
+      "day": 13,
+      "wardId": "med_female",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c5",
+      "year": 2569,
+      "month": 2,
+      "day": 17,
+      "wardId": "pediatric",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c6",
+      "year": 2569,
+      "month": 2,
+      "day": 16,
+      "wardId": "ob_gyn",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c7",
+      "year": 2569,
+      "month": 2,
+      "day": 20,
+      "wardId": "med_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c8",
+      "year": 2569,
+      "month": 2,
+      "day": 24,
+      "wardId": "cpk_6",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c9",
+      "year": 2569,
+      "month": 2,
+      "day": 28,
+      "wardId": "hemodialysis",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c10",
+      "year": 2569,
+      "month": 2,
+      "day": 4,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c11",
+      "year": 2569,
+      "month": 2,
+      "day": 3,
+      "wardId": "icu",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c12",
+      "year": 2569,
+      "month": 2,
+      "day": 7,
+      "wardId": "med_special_7",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m2-c13",
+      "year": 2569,
+      "month": 2,
+      "day": 11,
+      "wardId": "med_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c14",
+      "year": 2569,
+      "month": 2,
+      "day": 15,
+      "wardId": "surg_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c15",
+      "year": 2569,
+      "month": 2,
+      "day": 19,
+      "wardId": "cpk_5",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c16",
+      "year": 2569,
+      "month": 2,
+      "day": 18,
+      "wardId": "custom_dept_2",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c17",
+      "year": 2569,
+      "month": 2,
+      "day": 22,
+      "wardId": "med_female",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c18",
+      "year": 2569,
+      "month": 2,
+      "day": 26,
+      "wardId": "ortho",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c19",
+      "year": 2569,
+      "month": 2,
+      "day": 2,
+      "wardId": "custom_dept_1",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c20",
+      "year": 2569,
+      "month": 2,
+      "day": 6,
+      "wardId": "med_female",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c21",
+      "year": 2569,
+      "month": 2,
+      "day": 5,
+      "wardId": "pediatric",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c22",
+      "year": 2569,
+      "month": 2,
+      "day": 9,
+      "wardId": "ob_gyn",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c23",
+      "year": 2569,
+      "month": 2,
+      "day": 13,
+      "wardId": "med_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m2-c24",
+      "year": 2569,
+      "month": 2,
+      "day": 17,
+      "wardId": "cpk_6",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c25",
+      "year": 2569,
+      "month": 2,
+      "day": 21,
+      "wardId": "hemodialysis",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c26",
+      "year": 2569,
+      "month": 2,
+      "day": 20,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c27",
+      "year": 2569,
+      "month": 2,
+      "day": 24,
+      "wardId": "icu",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c28",
+      "year": 2569,
+      "month": 2,
+      "day": 28,
+      "wardId": "med_special_7",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c29",
+      "year": 2569,
+      "month": 2,
+      "day": 4,
+      "wardId": "med_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c30",
+      "year": 2569,
+      "month": 2,
+      "day": 8,
+      "wardId": "surg_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c31",
+      "year": 2569,
+      "month": 2,
+      "day": 7,
+      "wardId": "cpk_5",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c32",
+      "year": 2569,
+      "month": 2,
+      "day": 11,
+      "wardId": "custom_dept_2",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c33",
+      "year": 2569,
+      "month": 2,
+      "day": 15,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c34",
+      "year": 2569,
+      "month": 2,
+      "day": 19,
+      "wardId": "ortho",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m2-c35",
+      "year": 2569,
+      "month": 2,
+      "day": 23,
+      "wardId": "custom_dept_1",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c36",
+      "year": 2569,
+      "month": 2,
+      "day": 22,
+      "wardId": "med_female",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c37",
+      "year": 2569,
+      "month": 2,
+      "day": 26,
+      "wardId": "pediatric",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m2-c38",
+      "year": 2569,
+      "month": 2,
+      "day": 2,
+      "wardId": "ob_gyn",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c1",
+      "year": 2569,
+      "month": 3,
+      "day": 13,
+      "wardId": "ob_gyn",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m3-c2",
+      "year": 2569,
+      "month": 3,
+      "day": 17,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c3",
+      "year": 2569,
+      "month": 3,
+      "day": 21,
+      "wardId": "cpk_6",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c4",
+      "year": 2569,
+      "month": 3,
+      "day": 25,
+      "wardId": "hemodialysis",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c5",
+      "year": 2569,
+      "month": 3,
+      "day": 29,
+      "wardId": "med_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c6",
+      "year": 2569,
+      "month": 3,
+      "day": 28,
+      "wardId": "icu",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c7",
+      "year": 2569,
+      "month": 3,
+      "day": 1,
+      "wardId": "med_special_7",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c8",
+      "year": 2569,
+      "month": 3,
+      "day": 5,
+      "wardId": "med_male",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c9",
+      "year": 2569,
+      "month": 3,
+      "day": 9,
+      "wardId": "surg_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c10",
+      "year": 2569,
+      "month": 3,
+      "day": 13,
+      "wardId": "cpk_5",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c11",
+      "year": 2569,
+      "month": 3,
+      "day": 12,
+      "wardId": "custom_dept_2",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c12",
+      "year": 2569,
+      "month": 3,
+      "day": 16,
+      "wardId": "med_female",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m3-c13",
+      "year": 2569,
+      "month": 3,
+      "day": 20,
+      "wardId": "ortho",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c14",
+      "year": 2569,
+      "month": 3,
+      "day": 24,
+      "wardId": "custom_dept_1",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c15",
+      "year": 2569,
+      "month": 3,
+      "day": 28,
+      "wardId": "med_female",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c16",
+      "year": 2569,
+      "month": 3,
+      "day": 27,
+      "wardId": "pediatric",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c17",
+      "year": 2569,
+      "month": 3,
+      "day": 31,
+      "wardId": "ob_gyn",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c18",
+      "year": 2569,
+      "month": 3,
+      "day": 4,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c19",
+      "year": 2569,
+      "month": 3,
+      "day": 8,
+      "wardId": "cpk_6",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c20",
+      "year": 2569,
+      "month": 3,
+      "day": 12,
+      "wardId": "hemodialysis",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c21",
+      "year": 2569,
+      "month": 3,
+      "day": 11,
+      "wardId": "med_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c22",
+      "year": 2569,
+      "month": 3,
+      "day": 15,
+      "wardId": "icu",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c23",
+      "year": 2569,
+      "month": 3,
+      "day": 19,
+      "wardId": "med_special_7",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m3-c24",
+      "year": 2569,
+      "month": 3,
+      "day": 23,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c25",
+      "year": 2569,
+      "month": 3,
+      "day": 27,
+      "wardId": "surg_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c26",
+      "year": 2569,
+      "month": 3,
+      "day": 26,
+      "wardId": "cpk_5",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c27",
+      "year": 2569,
+      "month": 3,
+      "day": 30,
+      "wardId": "custom_dept_2",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c28",
+      "year": 2569,
+      "month": 3,
+      "day": 3,
+      "wardId": "med_female",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c29",
+      "year": 2569,
+      "month": 3,
+      "day": 7,
+      "wardId": "ortho",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c30",
+      "year": 2569,
+      "month": 3,
+      "day": 11,
+      "wardId": "custom_dept_1",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c31",
+      "year": 2569,
+      "month": 3,
+      "day": 10,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c32",
+      "year": 2569,
+      "month": 3,
+      "day": 14,
+      "wardId": "pediatric",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c33",
+      "year": 2569,
+      "month": 3,
+      "day": 18,
+      "wardId": "ob_gyn",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c34",
+      "year": 2569,
+      "month": 3,
+      "day": 22,
+      "wardId": "med_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m3-c35",
+      "year": 2569,
+      "month": 3,
+      "day": 26,
+      "wardId": "cpk_6",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c36",
+      "year": 2569,
+      "month": 3,
+      "day": 25,
+      "wardId": "hemodialysis",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c37",
+      "year": 2569,
+      "month": 3,
+      "day": 29,
+      "wardId": "med_male",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c38",
+      "year": 2569,
+      "month": 3,
+      "day": 2,
+      "wardId": "icu",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c39",
+      "year": 2569,
+      "month": 3,
+      "day": 6,
+      "wardId": "med_special_7",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c40",
+      "year": 2569,
+      "month": 3,
+      "day": 10,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c41",
+      "year": 2569,
+      "month": 3,
+      "day": 9,
+      "wardId": "surg_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c42",
+      "year": 2569,
+      "month": 3,
+      "day": 13,
+      "wardId": "cpk_5",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c43",
+      "year": 2569,
+      "month": 3,
+      "day": 17,
+      "wardId": "custom_dept_2",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c44",
+      "year": 2569,
+      "month": 3,
+      "day": 21,
+      "wardId": "med_female",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m3-c45",
+      "year": 2569,
+      "month": 3,
+      "day": 25,
+      "wardId": "ortho",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m3-c46",
+      "year": 2569,
+      "month": 3,
+      "day": 24,
+      "wardId": "custom_dept_1",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c1",
+      "year": 2569,
+      "month": 4,
+      "day": 7,
+      "wardId": "icu",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m4-c2",
+      "year": 2569,
+      "month": 4,
+      "day": 11,
+      "wardId": "med_special_7",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c3",
+      "year": 2569,
+      "month": 4,
+      "day": 15,
+      "wardId": "med_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c4",
+      "year": 2569,
+      "month": 4,
+      "day": 19,
+      "wardId": "surg_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c5",
+      "year": 2569,
+      "month": 4,
+      "day": 23,
+      "wardId": "cpk_5",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c6",
+      "year": 2569,
+      "month": 4,
+      "day": 22,
+      "wardId": "custom_dept_2",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c7",
+      "year": 2569,
+      "month": 4,
+      "day": 26,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c8",
+      "year": 2569,
+      "month": 4,
+      "day": 30,
+      "wardId": "ortho",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c9",
+      "year": 2569,
+      "month": 4,
+      "day": 4,
+      "wardId": "custom_dept_1",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c10",
+      "year": 2569,
+      "month": 4,
+      "day": 8,
+      "wardId": "med_female",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c11",
+      "year": 2569,
+      "month": 4,
+      "day": 7,
+      "wardId": "pediatric",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c12",
+      "year": 2569,
+      "month": 4,
+      "day": 11,
+      "wardId": "ob_gyn",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m4-c13",
+      "year": 2569,
+      "month": 4,
+      "day": 15,
+      "wardId": "med_male",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c14",
+      "year": 2569,
+      "month": 4,
+      "day": 19,
+      "wardId": "cpk_6",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c15",
+      "year": 2569,
+      "month": 4,
+      "day": 23,
+      "wardId": "hemodialysis",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c16",
+      "year": 2569,
+      "month": 4,
+      "day": 22,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c17",
+      "year": 2569,
+      "month": 4,
+      "day": 26,
+      "wardId": "icu",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c18",
+      "year": 2569,
+      "month": 4,
+      "day": 30,
+      "wardId": "med_special_7",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c19",
+      "year": 2569,
+      "month": 4,
+      "day": 4,
+      "wardId": "med_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c20",
+      "year": 2569,
+      "month": 4,
+      "day": 8,
+      "wardId": "surg_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c21",
+      "year": 2569,
+      "month": 4,
+      "day": 7,
+      "wardId": "cpk_5",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c22",
+      "year": 2569,
+      "month": 4,
+      "day": 11,
+      "wardId": "custom_dept_2",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c23",
+      "year": 2569,
+      "month": 4,
+      "day": 15,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m4-c24",
+      "year": 2569,
+      "month": 4,
+      "day": 19,
+      "wardId": "ortho",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c25",
+      "year": 2569,
+      "month": 4,
+      "day": 23,
+      "wardId": "custom_dept_1",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c26",
+      "year": 2569,
+      "month": 4,
+      "day": 22,
+      "wardId": "med_female",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c27",
+      "year": 2569,
+      "month": 4,
+      "day": 26,
+      "wardId": "pediatric",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c28",
+      "year": 2569,
+      "month": 4,
+      "day": 30,
+      "wardId": "ob_gyn",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c29",
+      "year": 2569,
+      "month": 4,
+      "day": 4,
+      "wardId": "med_male",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c30",
+      "year": 2569,
+      "month": 4,
+      "day": 8,
+      "wardId": "cpk_6",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c31",
+      "year": 2569,
+      "month": 4,
+      "day": 7,
+      "wardId": "hemodialysis",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c32",
+      "year": 2569,
+      "month": 4,
+      "day": 11,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c33",
+      "year": 2569,
+      "month": 4,
+      "day": 15,
+      "wardId": "icu",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c34",
+      "year": 2569,
+      "month": 4,
+      "day": 19,
+      "wardId": "med_special_7",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m4-c35",
+      "year": 2569,
+      "month": 4,
+      "day": 23,
+      "wardId": "med_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c36",
+      "year": 2569,
+      "month": 4,
+      "day": 22,
+      "wardId": "surg_male",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c37",
+      "year": 2569,
+      "month": 4,
+      "day": 26,
+      "wardId": "cpk_5",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c38",
+      "year": 2569,
+      "month": 4,
+      "day": 30,
+      "wardId": "custom_dept_2",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c39",
+      "year": 2569,
+      "month": 4,
+      "day": 4,
+      "wardId": "med_female",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m4-c40",
+      "year": 2569,
+      "month": 4,
+      "day": 8,
+      "wardId": "ortho",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c1",
+      "year": 2569,
+      "month": 5,
+      "day": 24,
+      "wardId": "custom_dept_2",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m5-c2",
+      "year": 2569,
+      "month": 5,
+      "day": 28,
+      "wardId": "med_female",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c3",
+      "year": 2569,
+      "month": 5,
+      "day": 1,
+      "wardId": "ortho",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c4",
+      "year": 2569,
+      "month": 5,
+      "day": 5,
+      "wardId": "custom_dept_1",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c5",
+      "year": 2569,
+      "month": 5,
+      "day": 9,
+      "wardId": "med_female",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c6",
+      "year": 2569,
+      "month": 5,
+      "day": 8,
+      "wardId": "pediatric",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c7",
+      "year": 2569,
+      "month": 5,
+      "day": 12,
+      "wardId": "ob_gyn",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c8",
+      "year": 2569,
+      "month": 5,
+      "day": 16,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c9",
+      "year": 2569,
+      "month": 5,
+      "day": 20,
+      "wardId": "cpk_6",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c10",
+      "year": 2569,
+      "month": 5,
+      "day": 24,
+      "wardId": "hemodialysis",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c11",
+      "year": 2569,
+      "month": 5,
+      "day": 23,
+      "wardId": "med_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c12",
+      "year": 2569,
+      "month": 5,
+      "day": 27,
+      "wardId": "icu",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m5-c13",
+      "year": 2569,
+      "month": 5,
+      "day": 31,
+      "wardId": "med_special_7",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c14",
+      "year": 2569,
+      "month": 5,
+      "day": 4,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c15",
+      "year": 2569,
+      "month": 5,
+      "day": 8,
+      "wardId": "surg_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c16",
+      "year": 2569,
+      "month": 5,
+      "day": 7,
+      "wardId": "cpk_5",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c17",
+      "year": 2569,
+      "month": 5,
+      "day": 11,
+      "wardId": "custom_dept_2",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c18",
+      "year": 2569,
+      "month": 5,
+      "day": 15,
+      "wardId": "med_female",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c19",
+      "year": 2569,
+      "month": 5,
+      "day": 19,
+      "wardId": "ortho",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c20",
+      "year": 2569,
+      "month": 5,
+      "day": 23,
+      "wardId": "custom_dept_1",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c21",
+      "year": 2569,
+      "month": 5,
+      "day": 22,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c22",
+      "year": 2569,
+      "month": 5,
+      "day": 26,
+      "wardId": "pediatric",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c23",
+      "year": 2569,
+      "month": 5,
+      "day": 30,
+      "wardId": "ob_gyn",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m5-c24",
+      "year": 2569,
+      "month": 5,
+      "day": 3,
+      "wardId": "med_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c25",
+      "year": 2569,
+      "month": 5,
+      "day": 7,
+      "wardId": "cpk_6",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c26",
+      "year": 2569,
+      "month": 5,
+      "day": 6,
+      "wardId": "hemodialysis",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c27",
+      "year": 2569,
+      "month": 5,
+      "day": 10,
+      "wardId": "med_male",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c28",
+      "year": 2569,
+      "month": 5,
+      "day": 14,
+      "wardId": "icu",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c29",
+      "year": 2569,
+      "month": 5,
+      "day": 18,
+      "wardId": "med_special_7",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c30",
+      "year": 2569,
+      "month": 5,
+      "day": 22,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c31",
+      "year": 2569,
+      "month": 5,
+      "day": 21,
+      "wardId": "surg_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c32",
+      "year": 2569,
+      "month": 5,
+      "day": 25,
+      "wardId": "cpk_5",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c33",
+      "year": 2569,
+      "month": 5,
+      "day": 29,
+      "wardId": "custom_dept_2",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c34",
+      "year": 2569,
+      "month": 5,
+      "day": 2,
+      "wardId": "med_female",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m5-c35",
+      "year": 2569,
+      "month": 5,
+      "day": 6,
+      "wardId": "ortho",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c36",
+      "year": 2569,
+      "month": 5,
+      "day": 5,
+      "wardId": "custom_dept_1",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c37",
+      "year": 2569,
+      "month": 5,
+      "day": 9,
+      "wardId": "med_female",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c38",
+      "year": 2569,
+      "month": 5,
+      "day": 13,
+      "wardId": "pediatric",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c39",
+      "year": 2569,
+      "month": 5,
+      "day": 17,
+      "wardId": "ob_gyn",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c40",
+      "year": 2569,
+      "month": 5,
+      "day": 21,
+      "wardId": "med_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c41",
+      "year": 2569,
+      "month": 5,
+      "day": 20,
+      "wardId": "cpk_6",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c42",
+      "year": 2569,
+      "month": 5,
+      "day": 24,
+      "wardId": "hemodialysis",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c43",
+      "year": 2569,
+      "month": 5,
+      "day": 28,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c44",
+      "year": 2569,
+      "month": 5,
+      "day": 1,
+      "wardId": "icu",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c45",
+      "year": 2569,
+      "month": 5,
+      "day": 5,
+      "wardId": "med_special_7",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m5-c46",
+      "year": 2569,
+      "month": 5,
+      "day": 4,
+      "wardId": "med_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m5-c47",
+      "year": 2569,
+      "month": 5,
+      "day": 8,
+      "wardId": "surg_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c1",
+      "year": 2569,
+      "month": 6,
+      "day": 19,
+      "wardId": "pediatric",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m6-c2",
+      "year": 2569,
+      "month": 6,
+      "day": 23,
+      "wardId": "ob_gyn",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c3",
+      "year": 2569,
+      "month": 6,
+      "day": 27,
+      "wardId": "med_male",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c4",
+      "year": 2569,
+      "month": 6,
+      "day": 1,
+      "wardId": "cpk_6",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c5",
+      "year": 2569,
+      "month": 6,
+      "day": 5,
+      "wardId": "hemodialysis",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c6",
+      "year": 2569,
+      "month": 6,
+      "day": 4,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c7",
+      "year": 2569,
+      "month": 6,
+      "day": 8,
+      "wardId": "icu",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c8",
+      "year": 2569,
+      "month": 6,
+      "day": 12,
+      "wardId": "med_special_7",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c9",
+      "year": 2569,
+      "month": 6,
+      "day": 16,
+      "wardId": "med_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c10",
+      "year": 2569,
+      "month": 6,
+      "day": 20,
+      "wardId": "surg_male",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c11",
+      "year": 2569,
+      "month": 6,
+      "day": 19,
+      "wardId": "cpk_5",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c12",
+      "year": 2569,
+      "month": 6,
+      "day": 23,
+      "wardId": "custom_dept_2",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m6-c13",
+      "year": 2569,
+      "month": 6,
+      "day": 27,
+      "wardId": "med_female",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c14",
+      "year": 2569,
+      "month": 6,
+      "day": 1,
+      "wardId": "ortho",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c15",
+      "year": 2569,
+      "month": 6,
+      "day": 5,
+      "wardId": "custom_dept_1",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c16",
+      "year": 2569,
+      "month": 6,
+      "day": 4,
+      "wardId": "med_female",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c17",
+      "year": 2569,
+      "month": 6,
+      "day": 8,
+      "wardId": "pediatric",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c18",
+      "year": 2569,
+      "month": 6,
+      "day": 12,
+      "wardId": "ob_gyn",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c19",
+      "year": 2569,
+      "month": 6,
+      "day": 16,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c20",
+      "year": 2569,
+      "month": 6,
+      "day": 20,
+      "wardId": "cpk_6",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c21",
+      "year": 2569,
+      "month": 6,
+      "day": 19,
+      "wardId": "hemodialysis",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c22",
+      "year": 2569,
+      "month": 6,
+      "day": 23,
+      "wardId": "med_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c23",
+      "year": 2569,
+      "month": 6,
+      "day": 27,
+      "wardId": "icu",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m6-c24",
+      "year": 2569,
+      "month": 6,
+      "day": 1,
+      "wardId": "med_special_7",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c25",
+      "year": 2569,
+      "month": 6,
+      "day": 5,
+      "wardId": "med_male",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c26",
+      "year": 2569,
+      "month": 6,
+      "day": 4,
+      "wardId": "surg_male",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c27",
+      "year": 2569,
+      "month": 6,
+      "day": 8,
+      "wardId": "cpk_5",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c28",
+      "year": 2569,
+      "month": 6,
+      "day": 12,
+      "wardId": "custom_dept_2",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c29",
+      "year": 2569,
+      "month": 6,
+      "day": 16,
+      "wardId": "med_female",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c30",
+      "year": 2569,
+      "month": 6,
+      "day": 20,
+      "wardId": "ortho",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c31",
+      "year": 2569,
+      "month": 6,
+      "day": 19,
+      "wardId": "custom_dept_1",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c32",
+      "year": 2569,
+      "month": 6,
+      "day": 23,
+      "wardId": "med_female",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c33",
+      "year": 2569,
+      "month": 6,
+      "day": 27,
+      "wardId": "pediatric",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c34",
+      "year": 2569,
+      "month": 6,
+      "day": 1,
+      "wardId": "ob_gyn",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m6-c35",
+      "year": 2569,
+      "month": 6,
+      "day": 5,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c36",
+      "year": 2569,
+      "month": 6,
+      "day": 4,
+      "wardId": "cpk_6",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c37",
+      "year": 2569,
+      "month": 6,
+      "day": 8,
+      "wardId": "hemodialysis",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c38",
+      "year": 2569,
+      "month": 6,
+      "day": 12,
+      "wardId": "med_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c39",
+      "year": 2569,
+      "month": 6,
+      "day": 16,
+      "wardId": "icu",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c40",
+      "year": 2569,
+      "month": 6,
+      "day": 20,
+      "wardId": "med_special_7",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c41",
+      "year": 2569,
+      "month": 6,
+      "day": 19,
+      "wardId": "med_male",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c42",
+      "year": 2569,
+      "month": 6,
+      "day": 23,
+      "wardId": "surg_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m6-c43",
+      "year": 2569,
+      "month": 6,
+      "day": 27,
+      "wardId": "cpk_5",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c1",
+      "year": 2569,
+      "month": 7,
+      "day": 4,
+      "wardId": "med_male",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m7-c2",
+      "year": 2569,
+      "month": 7,
+      "day": 8,
+      "wardId": "icu",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c3",
+      "year": 2569,
+      "month": 7,
+      "day": 12,
+      "wardId": "med_special_7",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c4",
+      "year": 2569,
+      "month": 7,
+      "day": 16,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c5",
+      "year": 2569,
+      "month": 7,
+      "day": 20,
+      "wardId": "surg_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c6",
+      "year": 2569,
+      "month": 7,
+      "day": 19,
+      "wardId": "cpk_5",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c7",
+      "year": 2569,
+      "month": 7,
+      "day": 23,
+      "wardId": "custom_dept_2",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c8",
+      "year": 2569,
+      "month": 7,
+      "day": 27,
+      "wardId": "med_female",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c9",
+      "year": 2569,
+      "month": 7,
+      "day": 31,
+      "wardId": "ortho",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c10",
+      "year": 2569,
+      "month": 7,
+      "day": 4,
+      "wardId": "custom_dept_1",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c11",
+      "year": 2569,
+      "month": 7,
+      "day": 3,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c12",
+      "year": 2569,
+      "month": 7,
+      "day": 7,
+      "wardId": "pediatric",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m7-c13",
+      "year": 2569,
+      "month": 7,
+      "day": 11,
+      "wardId": "ob_gyn",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c14",
+      "year": 2569,
+      "month": 7,
+      "day": 15,
+      "wardId": "med_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c15",
+      "year": 2569,
+      "month": 7,
+      "day": 19,
+      "wardId": "cpk_6",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c16",
+      "year": 2569,
+      "month": 7,
+      "day": 18,
+      "wardId": "hemodialysis",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c17",
+      "year": 2569,
+      "month": 7,
+      "day": 22,
+      "wardId": "med_male",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c18",
+      "year": 2569,
+      "month": 7,
+      "day": 26,
+      "wardId": "icu",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c19",
+      "year": 2569,
+      "month": 7,
+      "day": 30,
+      "wardId": "med_special_7",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c20",
+      "year": 2569,
+      "month": 7,
+      "day": 3,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c21",
+      "year": 2569,
+      "month": 7,
+      "day": 2,
+      "wardId": "surg_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c22",
+      "year": 2569,
+      "month": 7,
+      "day": 6,
+      "wardId": "cpk_5",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c23",
+      "year": 2569,
+      "month": 7,
+      "day": 10,
+      "wardId": "custom_dept_2",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m7-c24",
+      "year": 2569,
+      "month": 7,
+      "day": 14,
+      "wardId": "med_female",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c25",
+      "year": 2569,
+      "month": 7,
+      "day": 18,
+      "wardId": "ortho",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c26",
+      "year": 2569,
+      "month": 7,
+      "day": 17,
+      "wardId": "custom_dept_1",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c27",
+      "year": 2569,
+      "month": 7,
+      "day": 21,
+      "wardId": "med_female",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c28",
+      "year": 2569,
+      "month": 7,
+      "day": 25,
+      "wardId": "pediatric",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c29",
+      "year": 2569,
+      "month": 7,
+      "day": 29,
+      "wardId": "ob_gyn",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c30",
+      "year": 2569,
+      "month": 7,
+      "day": 2,
+      "wardId": "med_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c31",
+      "year": 2569,
+      "month": 7,
+      "day": 1,
+      "wardId": "cpk_6",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c32",
+      "year": 2569,
+      "month": 7,
+      "day": 5,
+      "wardId": "hemodialysis",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c33",
+      "year": 2569,
+      "month": 7,
+      "day": 9,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c34",
+      "year": 2569,
+      "month": 7,
+      "day": 13,
+      "wardId": "icu",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m7-c35",
+      "year": 2569,
+      "month": 7,
+      "day": 17,
+      "wardId": "med_special_7",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c36",
+      "year": 2569,
+      "month": 7,
+      "day": 16,
+      "wardId": "med_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c37",
+      "year": 2569,
+      "month": 7,
+      "day": 20,
+      "wardId": "surg_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c38",
+      "year": 2569,
+      "month": 7,
+      "day": 24,
+      "wardId": "cpk_5",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c39",
+      "year": 2569,
+      "month": 7,
+      "day": 28,
+      "wardId": "custom_dept_2",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c40",
+      "year": 2569,
+      "month": 7,
+      "day": 1,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c41",
+      "year": 2569,
+      "month": 7,
+      "day": 31,
+      "wardId": "ortho",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c42",
+      "year": 2569,
+      "month": 7,
+      "day": 4,
+      "wardId": "custom_dept_1",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c43",
+      "year": 2569,
+      "month": 7,
+      "day": 8,
+      "wardId": "med_female",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c44",
+      "year": 2569,
+      "month": 7,
+      "day": 12,
+      "wardId": "pediatric",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c45",
+      "year": 2569,
+      "month": 7,
+      "day": 16,
+      "wardId": "ob_gyn",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m7-c46",
+      "year": 2569,
+      "month": 7,
+      "day": 15,
+      "wardId": "med_male",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c47",
+      "year": 2569,
+      "month": 7,
+      "day": 19,
+      "wardId": "cpk_6",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m7-c48",
+      "year": 2569,
+      "month": 7,
+      "day": 23,
+      "wardId": "hemodialysis",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c1",
+      "year": 2569,
+      "month": 8,
+      "day": 25,
+      "wardId": "cpk_5",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m8-c2",
+      "year": 2569,
+      "month": 8,
+      "day": 29,
+      "wardId": "custom_dept_2",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c3",
+      "year": 2569,
+      "month": 8,
+      "day": 2,
+      "wardId": "med_female",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c4",
+      "year": 2569,
+      "month": 8,
+      "day": 6,
+      "wardId": "ortho",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c5",
+      "year": 2569,
+      "month": 8,
+      "day": 10,
+      "wardId": "custom_dept_1",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c6",
+      "year": 2569,
+      "month": 8,
+      "day": 9,
+      "wardId": "med_female",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c7",
+      "year": 2569,
+      "month": 8,
+      "day": 13,
+      "wardId": "pediatric",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c8",
+      "year": 2569,
+      "month": 8,
+      "day": 17,
+      "wardId": "ob_gyn",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c9",
+      "year": 2569,
+      "month": 8,
+      "day": 21,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c10",
+      "year": 2569,
+      "month": 8,
+      "day": 25,
+      "wardId": "cpk_6",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c11",
+      "year": 2569,
+      "month": 8,
+      "day": 24,
+      "wardId": "hemodialysis",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c12",
+      "year": 2569,
+      "month": 8,
+      "day": 28,
+      "wardId": "med_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m8-c13",
+      "year": 2569,
+      "month": 8,
+      "day": 1,
+      "wardId": "icu",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c14",
+      "year": 2569,
+      "month": 8,
+      "day": 5,
+      "wardId": "med_special_7",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c15",
+      "year": 2569,
+      "month": 8,
+      "day": 9,
+      "wardId": "med_male",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c16",
+      "year": 2569,
+      "month": 8,
+      "day": 8,
+      "wardId": "surg_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c17",
+      "year": 2569,
+      "month": 8,
+      "day": 12,
+      "wardId": "cpk_5",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c18",
+      "year": 2569,
+      "month": 8,
+      "day": 16,
+      "wardId": "custom_dept_2",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c19",
+      "year": 2569,
+      "month": 8,
+      "day": 20,
+      "wardId": "med_female",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c20",
+      "year": 2569,
+      "month": 8,
+      "day": 24,
+      "wardId": "ortho",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c21",
+      "year": 2569,
+      "month": 8,
+      "day": 23,
+      "wardId": "custom_dept_1",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c22",
+      "year": 2569,
+      "month": 8,
+      "day": 27,
+      "wardId": "med_female",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c23",
+      "year": 2569,
+      "month": 8,
+      "day": 31,
+      "wardId": "pediatric",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m8-c24",
+      "year": 2569,
+      "month": 8,
+      "day": 4,
+      "wardId": "ob_gyn",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c25",
+      "year": 2569,
+      "month": 8,
+      "day": 8,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c26",
+      "year": 2569,
+      "month": 8,
+      "day": 7,
+      "wardId": "cpk_6",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c27",
+      "year": 2569,
+      "month": 8,
+      "day": 11,
+      "wardId": "hemodialysis",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c28",
+      "year": 2569,
+      "month": 8,
+      "day": 15,
+      "wardId": "med_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c29",
+      "year": 2569,
+      "month": 8,
+      "day": 19,
+      "wardId": "icu",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c30",
+      "year": 2569,
+      "month": 8,
+      "day": 23,
+      "wardId": "med_special_7",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c31",
+      "year": 2569,
+      "month": 8,
+      "day": 22,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c32",
+      "year": 2569,
+      "month": 8,
+      "day": 26,
+      "wardId": "surg_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c33",
+      "year": 2569,
+      "month": 8,
+      "day": 30,
+      "wardId": "cpk_5",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c34",
+      "year": 2569,
+      "month": 8,
+      "day": 3,
+      "wardId": "custom_dept_2",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m8-c35",
+      "year": 2569,
+      "month": 8,
+      "day": 7,
+      "wardId": "med_female",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c36",
+      "year": 2569,
+      "month": 8,
+      "day": 6,
+      "wardId": "ortho",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c37",
+      "year": 2569,
+      "month": 8,
+      "day": 10,
+      "wardId": "custom_dept_1",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c38",
+      "year": 2569,
+      "month": 8,
+      "day": 14,
+      "wardId": "med_female",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c39",
+      "year": 2569,
+      "month": 8,
+      "day": 18,
+      "wardId": "pediatric",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c40",
+      "year": 2569,
+      "month": 8,
+      "day": 22,
+      "wardId": "ob_gyn",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c41",
+      "year": 2569,
+      "month": 8,
+      "day": 21,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c42",
+      "year": 2569,
+      "month": 8,
+      "day": 25,
+      "wardId": "cpk_6",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c43",
+      "year": 2569,
+      "month": 8,
+      "day": 29,
+      "wardId": "hemodialysis",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c44",
+      "year": 2569,
+      "month": 8,
+      "day": 2,
+      "wardId": "med_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m8-c45",
+      "year": 2569,
+      "month": 8,
+      "day": 6,
+      "wardId": "icu",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m9-c1",
+      "year": 2569,
+      "month": 9,
+      "day": 22,
+      "wardId": "med_female",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m9-c2",
+      "year": 2569,
+      "month": 9,
+      "day": 26,
+      "wardId": "pediatric",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c3",
+      "year": 2569,
+      "month": 9,
+      "day": 30,
+      "wardId": "ob_gyn",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c4",
+      "year": 2569,
+      "month": 9,
+      "day": 4,
+      "wardId": "med_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c5",
+      "year": 2569,
+      "month": 9,
+      "day": 8,
+      "wardId": "cpk_6",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c6",
+      "year": 2569,
+      "month": 9,
+      "day": 7,
+      "wardId": "hemodialysis",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c7",
+      "year": 2569,
+      "month": 9,
+      "day": 11,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c8",
+      "year": 2569,
+      "month": 9,
+      "day": 15,
+      "wardId": "icu",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c9",
+      "year": 2569,
+      "month": 9,
+      "day": 19,
+      "wardId": "med_special_7",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c10",
+      "year": 2569,
+      "month": 9,
+      "day": 23,
+      "wardId": "med_male",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c11",
+      "year": 2569,
+      "month": 9,
+      "day": 22,
+      "wardId": "surg_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c12",
+      "year": 2569,
+      "month": 9,
+      "day": 26,
+      "wardId": "cpk_5",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m9-c13",
+      "year": 2569,
+      "month": 9,
+      "day": 30,
+      "wardId": "custom_dept_2",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c14",
+      "year": 2569,
+      "month": 9,
+      "day": 4,
+      "wardId": "med_female",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c15",
+      "year": 2569,
+      "month": 9,
+      "day": 8,
+      "wardId": "ortho",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c16",
+      "year": 2569,
+      "month": 9,
+      "day": 7,
+      "wardId": "custom_dept_1",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c17",
+      "year": 2569,
+      "month": 9,
+      "day": 11,
+      "wardId": "med_female",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c18",
+      "year": 2569,
+      "month": 9,
+      "day": 15,
+      "wardId": "pediatric",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c19",
+      "year": 2569,
+      "month": 9,
+      "day": 19,
+      "wardId": "ob_gyn",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c20",
+      "year": 2569,
+      "month": 9,
+      "day": 23,
+      "wardId": "med_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c21",
+      "year": 2569,
+      "month": 9,
+      "day": 22,
+      "wardId": "cpk_6",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c22",
+      "year": 2569,
+      "month": 9,
+      "day": 26,
+      "wardId": "hemodialysis",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c23",
+      "year": 2569,
+      "month": 9,
+      "day": 30,
+      "wardId": "med_male",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m9-c24",
+      "year": 2569,
+      "month": 9,
+      "day": 4,
+      "wardId": "icu",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c25",
+      "year": 2569,
+      "month": 9,
+      "day": 8,
+      "wardId": "med_special_7",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c26",
+      "year": 2569,
+      "month": 9,
+      "day": 7,
+      "wardId": "med_male",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c27",
+      "year": 2569,
+      "month": 9,
+      "day": 11,
+      "wardId": "surg_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c28",
+      "year": 2569,
+      "month": 9,
+      "day": 15,
+      "wardId": "cpk_5",
+      "organism": "Staphylococcus epidermidis",
+      "resistanceGroup": "S. epidermidis (MRSE)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c29",
+      "year": 2569,
+      "month": 9,
+      "day": 19,
+      "wardId": "custom_dept_2",
+      "organism": "Klebsiella aerogenes",
+      "resistanceGroup": "Enterobacter spp. (MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c30",
+      "year": 2569,
+      "month": 9,
+      "day": 23,
+      "wardId": "med_female",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c31",
+      "year": 2569,
+      "month": 9,
+      "day": 22,
+      "wardId": "ortho",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c32",
+      "year": 2569,
+      "month": 9,
+      "day": 26,
+      "wardId": "custom_dept_1",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c33",
+      "year": 2569,
+      "month": 9,
+      "day": 30,
+      "wardId": "med_female",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c34",
+      "year": 2569,
+      "month": 9,
+      "day": 4,
+      "wardId": "pediatric",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (MDR)",
+      "specimen": "เลือด",
+      "count": 2
+    },
+    {
+      "id": "fy-2569-m9-c35",
+      "year": 2569,
+      "month": 9,
+      "day": 8,
+      "wardId": "ob_gyn",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c36",
+      "year": 2569,
+      "month": 9,
+      "day": 7,
+      "wardId": "med_male",
+      "organism": "Achromobacter xylosoxidans",
+      "resistanceGroup": "Achromobacter spp. (MDR)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c37",
+      "year": 2569,
+      "month": 9,
+      "day": 11,
+      "wardId": "cpk_6",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c38",
+      "year": 2569,
+      "month": 9,
+      "day": 15,
+      "wardId": "hemodialysis",
+      "organism": "Escherichia coli",
+      "resistanceGroup": "E. coli (MDR)",
+      "specimen": "เลือด",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c39",
+      "year": 2569,
+      "month": 9,
+      "day": 19,
+      "wardId": "med_male",
+      "organism": "Acinetobacter baumannii",
+      "resistanceGroup": "A. baumannii (CRAB_MDR_CoRO)",
+      "specimen": "เสมหะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c40",
+      "year": 2569,
+      "month": 9,
+      "day": 23,
+      "wardId": "icu",
+      "organism": "Staphylococcus aureus",
+      "resistanceGroup": "S. aureus (MRSA)",
+      "specimen": "หนอง/แผล/เนื้อเยื่อ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c41",
+      "year": 2569,
+      "month": 9,
+      "day": 22,
+      "wardId": "med_special_7",
+      "organism": "Klebsiella pneumoniae",
+      "resistanceGroup": "K. pneumoniae (CRE_MDR)",
+      "specimen": "ปัสสาวะ",
+      "count": 1
+    },
+    {
+      "id": "fy-2569-m9-c42",
+      "year": 2569,
+      "month": 9,
+      "day": 26,
+      "wardId": "med_male",
+      "organism": "Pseudomonas aeruginosa",
+      "resistanceGroup": "P. aeruginosa (CRPA_MDR)",
+      "specimen": "เสมหะ",
+      "count": 1
+    }
+  ],
+  "wards": [
+    {
+      "id": "med_female",
+      "name": "อายุรกรรมหญิง",
+      "building": "ตึกอายุรกรรม",
+      "floor": "ชั้น 2"
+    },
+    {
+      "id": "med_male",
+      "name": "อายุรกรรมชาย",
+      "building": "ตึกอายุรกรรม",
+      "floor": "ชั้น 3"
+    },
+    {
+      "id": "icu",
+      "name": "ผู้ป่วยหนัก (ICU)",
+      "building": "ตึกอุบัติเหตุและวิกฤต",
+      "floor": "ชั้น 2"
+    },
+    {
+      "id": "surg_male",
+      "name": "ศัลยกรรมชาย",
+      "building": "ตึกศัลยกรรม",
+      "floor": "ชั้น 2"
+    },
+    {
+      "id": "ortho",
+      "name": "ออโธปิดิกส์",
+      "building": "ตึกศัลยกรรมกระดูก",
+      "floor": "ชั้น 1"
+    },
+    {
+      "id": "pediatric",
+      "name": "กุมารเวชกรรม",
+      "building": "ตึกกุมารเวช",
+      "floor": "ชั้น 2"
+    },
+    {
+      "id": "cpk_5",
+      "name": "เฉลิมพระเกียรติ ชั้น 5",
+      "building": "อาคารเฉลิมพระเกียรติ",
+      "floor": "ชั้น 5"
+    },
+    {
+      "id": "cpk_2",
+      "name": "เฉลิมพระเกียรติ ชั้น 2",
+      "building": "อาคารเฉลิมพระเกียรติ",
+      "floor": "ชั้น 2"
+    },
+    {
+      "id": "cpk_6",
+      "name": "เฉลิมพระเกียรติ ชั้น 6",
+      "building": "อาคารเฉลิมพระเกียรติ",
+      "floor": "ชั้น 6"
+    },
+    {
+      "id": "cpk_3",
+      "name": "เฉลิมพระเกียรติ ชั้น 3",
+      "building": "อาคารเฉลิมพระเกียรติ",
+      "floor": "ชั้น 3"
+    },
+    {
+      "id": "er",
+      "name": "อุบัติเหตุ-ฉุกเฉิน (ER)",
+      "building": "ตึกอุบัติเหตุ",
+      "floor": "ชั้น 1"
+    },
+    {
+      "id": "med_special_7",
+      "name": "พิเศษอายุรกรรม (ฉก7)",
+      "building": "อาคารเฉลิมพระเกียรติ",
+      "floor": "ชั้น 7"
+    },
+    {
+      "id": "opd",
+      "name": "ผู้ป่วยนอก (OPD)",
+      "building": "อาคารผู้ป่วยนอก",
+      "floor": "ชั้น 1"
+    },
+    {
+      "id": "cpk_4",
+      "name": "เฉลิมพระเกียรติ ชั้น 4",
+      "building": "อาคารเฉลิมพระเกียรติ",
+      "floor": "ชั้น 4"
+    },
+    {
+      "id": "or",
+      "name": "ห้องผ่าตัด (OR)",
+      "building": "ตึกศัลยกรรม",
+      "floor": "ชั้น 3"
+    },
+    {
+      "id": "ob_gyn",
+      "name": "สูติ-นรีเวชกรรม",
+      "building": "ตึกสูตินรีเวช",
+      "floor": "ชั้น 2"
+    },
+    {
+      "id": "hemodialysis",
+      "name": "ไตเทียม",
+      "building": "อาคารบริการพิเศษ",
+      "floor": "ชั้น 1"
+    },
+    {
+      "id": "custom_dept_1",
+      "name": "หน่วยงานเพิ่มเติม 1 (NICU)",
+      "building": "ตึกกุมารเวช",
+      "floor": "ชั้น 3",
+      "isCustom": true
+    },
+    {
+      "id": "custom_dept_2",
+      "name": "หน่วยงานเพิ่มเติม 2 (ศัลยกรรมหญิง)",
+      "building": "ตึกศัลยกรรม",
+      "floor": "ชั้น 1",
+      "isCustom": true
+    },
+    {
+      "id": "custom_dept_3",
+      "name": "หน่วยงานเพิ่มเติม 3 (พิเศษศัลยกรรม)",
+      "building": "อาคารเฉลิมพระเกียรติ",
+      "floor": "ชั้น 8",
+      "isCustom": true
+    },
+    {
+      "id": "custom_dept_4",
+      "name": "หน่วยงานเพิ่มเติม 4 (เคมีบำบัด)",
+      "building": "อาคารเฉลิมพระเกียรติ",
+      "floor": "ชั้น 4",
+      "isCustom": true
+    },
+    {
+      "id": "custom_dept_5",
+      "name": "หน่วยงานเพิ่มเติม 5 (Stroke Unit)",
+      "building": "ตึกอายุรกรรม",
+      "floor": "ชั้น 1",
+      "isCustom": true
+    }
+  ],
+  "recommendations": {
+    "med_male": {
+      "wardId": "med_male",
+      "riskLevel": "critical",
+      "caseCount": 15,
+      "hasClusterAlert": true,
+      "topOrganisms": [
+        {
+          "organism": "Acinetobacter baumannii",
+          "count": 6
+        },
+        {
+          "organism": "Escherichia coli",
+          "count": 5
+        },
+        {
+          "organism": "Klebsiella aerogenes",
+          "count": 2
+        }
+      ],
+      "topSpecimens": [
+        {
+          "specimen": "เสมหะ",
+          "count": 8
+        },
+        {
+          "specimen": "ปัสสาวะ",
+          "count": 4
+        },
+        {
+          "specimen": "เลือด",
+          "count": 2
+        }
+      ],
+      "recommendations": [
+        "เฝ้าระวังคลัสเตอร์ A. baumannii (CRAB_MDR / CoRO) ในทางเดินหายใจสูงถึง 6 ราย แยกผู้ป่วยห้องแยกหรือ Cohort จัดโซนชัดเจน",
+        "เข้มงวด Contact Precautions สวมถุงมือและเสื้อกาวน์ทุกครั้งที่สัมผัสผู้ป่วยหรือสิ่งแวดล้อมใกล้ตัว",
+        "ทำความสะอาดพื้นผิวสัมผัสบ่อย (High-touch surfaces) ด้วยสารฟอกขาว 0.1% sodium hypochlorite วันละอย่างน้อย 2 ครั้ง",
+        "ประเมินความจำเป็นของการใส่ท่อช่วยหายใจและสายสวนปัสสาวะทุกวัน (Daily sedation vacation and weaning protocol)",
+        "แยกอุปกรณ์วัดสัญญาณชีพ (เครื่องวัดความดัน, Stethoscope, Suction) เป็นรายบุคคล ห้ามใช้วนระหว่างเตียง"
+      ],
+      "icBundles": [
+        "Contact Precautions",
+        "VAP Bundle",
+        "CAUTI Bundle",
+        "High-Touch Disinfection"
+      ]
+    },
+    "med_female": {
+      "wardId": "med_female",
+      "riskLevel": "high",
+      "caseCount": 9,
+      "hasClusterAlert": true,
+      "topOrganisms": [
+        {
+          "organism": "Escherichia coli",
+          "count": 8
+        },
+        {
+          "organism": "Staphylococcus aureus",
+          "count": 1
+        }
+      ],
+      "topSpecimens": [
+        {
+          "specimen": "ปัสสาวะ",
+          "count": 4
+        },
+        {
+          "specimen": "หนอง/แผล/เนื้อเยื่อ",
+          "count": 2
+        },
+        {
+          "specimen": "เลือด",
+          "count": 3
+        }
+      ],
+      "recommendations": [
+        "พบ E. coli ดื้อยา (MDR / CRE_MDR) สูงสุดในโรงพยาบาล (8 ราย) โดยเฉพาะในปัสสาวะและกระแสเลือดช่วงปลายเดือน (26-29 ต.ค.)",
+        "ทบทวนเทคนิคการใส่สายสวนปัสสาวะปลอดเชื้อ (Aseptic Foley catheter insertion) และการดูแลสายสวน (Closed drainage system)",
+        "ห้ามวางถุงปัสสาวะสัมผัสพื้นหรือสูงกว่าระดับกระเพาะปัสสาวะ เทปัสสาวะโดยใช้ภาชนะเฉพาะบุคคล",
+        "เฝ้าระวังการติดเชื้อในกระแสเลือด (BSI) ที่อาจลุกลามมาจากทางเดินปัสสาวะ (Urosepsis) ติดตามผลเพาะเชื้อและปรับยาตาม Antibiogram"
+      ],
+      "icBundles": [
+        "CAUTI Bundle",
+        "CLABSI Prevention",
+        "Aseptic Technique Audit"
+      ]
+    },
+    "cpk_6": {
+      "wardId": "cpk_6",
+      "riskLevel": "high",
+      "caseCount": 6,
+      "hasClusterAlert": true,
+      "topOrganisms": [
+        {
+          "organism": "Escherichia coli",
+          "count": 1
+        },
+        {
+          "organism": "Achromobacter xylosoxidans",
+          "count": 2
+        },
+        {
+          "organism": "Staphylococcus capitis",
+          "count": 2
+        },
+        {
+          "organism": "Acinetobacter baumannii",
+          "count": 1
+        }
+      ],
+      "topSpecimens": [
+        {
+          "specimen": "หนอง/แผล/เนื้อเยื่อ",
+          "count": 3
+        },
+        {
+          "specimen": "เลือด",
+          "count": 2
+        },
+        {
+          "specimen": "เสมหะ",
+          "count": 1
+        }
+      ],
+      "recommendations": [
+        "พบ CoNS (S. capitis MRSE) ในเลือด 2 รายในวันเดียวกัน (22 ต.ค.) และ Achromobacter spp. ในแผล 2 ราย (6 ต.ค.) บ่งชี้ความเสี่ยงปนเปื้อน",
+        "เข้มงวดการทำลายเชื้อที่ผิวหนังด้วย 2% Chlorhexidine in 70% Alcohol ก่อนเจาะเลือดเพาะเชื้อ (Blood Culture Bundle)",
+        "ตรวจสอบระบบจ่ายน้ำและน้ำยาฆ่าเชื้อ เนื่องจาก Achromobacter มักเจริญได้ในแหล่งน้ำและสารละลายที่มีความชื้น",
+        "ล้างมือ 5 Moments อย่างเคร่งครัด โดยเฉพาะก่อนจับต้องสายสวนหลอดเลือดดำและทำแผล"
+      ],
+      "icBundles": [
+        "Blood Culture Technique",
+        "Chlorhexidine Skin Prep",
+        "Wound Care Protocol"
+      ]
+    },
+    "surg_male": {
+      "wardId": "surg_male",
+      "riskLevel": "high",
+      "caseCount": 5,
+      "hasClusterAlert": true,
+      "topOrganisms": [
+        {
+          "organism": "Acinetobacter baumannii",
+          "count": 2
+        },
+        {
+          "organism": "Pseudomonas stutzeri",
+          "count": 2
+        },
+        {
+          "organism": "Staphylococcus aureus",
+          "count": 1
+        },
+        {
+          "organism": "Escherichia coli",
+          "count": 1
+        }
+      ],
+      "topSpecimens": [
+        {
+          "specimen": "หนอง/แผล/เนื้อเยื่อ",
+          "count": 4
+        },
+        {
+          "specimen": "อื่นๆ",
+          "count": 1
+        }
+      ],
+      "recommendations": [
+        "เกือบทุกราย (4 ใน 5) เป็นเชื้อดื้อยาจากหนอง/แผลผ่าตัด (Surgical Site Infection - SSI)",
+        "จัดลำดับการทำแผล: แผลสะอาด -> แผลสะอาดปนเปื้อน -> แผลติดเชื้อดื้อยาเป็นลำดับสุดท้าย",
+        "สวมถุงมือปลอดเชื้อและอุปกรณ์ PPE เหมาะสม ทิ้งผ้าก๊อซและสิ่งปนเปื้อนในถังขยะติดเชื้อทันที",
+        "ตรวจสอบเครื่องมือผ่าตัดและการอบฆ่าเชื้อ (CSSD sterilization process validation)"
+      ],
+      "icBundles": [
+        "SSI Bundle",
+        "Aseptic Wound Dressing",
+        "Instrument Sterilization Audit"
+      ]
+    },
+    "pediatric": {
+      "wardId": "pediatric",
+      "riskLevel": "high",
+      "caseCount": 5,
+      "hasClusterAlert": false,
+      "topOrganisms": [
+        {
+          "organism": "Staphylococcus epidermidis",
+          "count": 1
+        },
+        {
+          "organism": "Acinetobacter baumannii",
+          "count": 1
+        },
+        {
+          "organism": "Staphylococcus haemolyticus",
+          "count": 1
+        },
+        {
+          "organism": "Klebsiella pneumoniae",
+          "count": 1
+        }
+      ],
+      "topSpecimens": [
+        {
+          "specimen": "เลือด",
+          "count": 3
+        },
+        {
+          "specimen": "หนอง/แผล/เนื้อเยื่อ",
+          "count": 1
+        }
+      ],
+      "recommendations": [
+        "พบเชื้อดื้อยาในเลือดเด็กถึง 3 ราย (MRSE, CoRO) ต้องเฝ้าระวังภาวะ Sepsis ในผู้ป่วยเด็กอย่างใกล้ชิด",
+        "เน้นย้ำความปลอดเชื้อในการแทงเส้นและให้สารน้ำ/ยาฉีด (Safe Injection Practice)",
+        "จำกัดจำนวนญาติเฝ้าไข้ และให้ความรู้เรื่องการล้างมือก่อน-หลังสัมผัสตัวเด็กแก่ผู้ปกครอง",
+        "ทำความสะอาดของเล่นและเตียงเด็กด้วยน้ำยาฆ่าเชื้อที่ปลอดภัยสำหรับกุมารเวชกรรม"
+      ],
+      "icBundles": [
+        "Pediatric Sepsis Alert",
+        "Peripheral Line Care",
+        "Hand Hygiene for Visitors"
+      ]
+    },
+    "ortho": {
+      "wardId": "ortho",
+      "riskLevel": "moderate",
+      "caseCount": 2,
+      "hasClusterAlert": false,
+      "topOrganisms": [
+        {
+          "organism": "Pseudomonas aeruginosa",
+          "count": 1
+        },
+        {
+          "organism": "Klebsiella pneumoniae",
+          "count": 1
+        }
+      ],
+      "topSpecimens": [
+        {
+          "specimen": "หนอง/แผล/เนื้อเยื่อ",
+          "count": 1
+        },
+        {
+          "specimen": "เลือด",
+          "count": 1
+        }
+      ],
+      "recommendations": [
+        "พบ CRPA ในแผลผ่าตัดกระดูก และ K. pneumoniae ในเลือด ควรเฝ้าระวังการติดเชื้อลึกถึงกระดูก (Osteomyelitis / Implant infection)",
+        "เคร่งครัดเทคนิคปลอดเชื้อในการดึงเหล็ก (Pin tract care) และการทำแผลศัลยกรรมกระดูก"
+      ],
+      "icBundles": [
+        "Pin Tract Care Bundle",
+        "Surgical Implant Surveillance"
+      ]
+    },
+    "cpk_5": {
+      "wardId": "cpk_5",
+      "riskLevel": "moderate",
+      "caseCount": 2,
+      "hasClusterAlert": false,
+      "topOrganisms": [
+        {
+          "organism": "Acinetobacter baumannii",
+          "count": 2
+        }
+      ],
+      "topSpecimens": [
+        {
+          "specimen": "หนอง/แผล/เนื้อเยื่อ",
+          "count": 2
+        }
+      ],
+      "recommendations": [
+        "พบ A. baumannii ดื้อยา (CRAB_MDR / CoRO) ในแผลทั้ง 2 ราย ต้องแยกของใช้และทำความสะอาดเตียงอย่างเข้มงวด",
+        "ตรวจคัดกรองผู้ป่วยสัมผัสร่วมห้อง (Contact Screening) หากมีอาการสงสัยติดเชื้อ"
+      ],
+      "icBundles": [
+        "Contact Isolation",
+        "Environmental Terminal Cleaning"
+      ]
+    },
+    "med_special_7": {
+      "wardId": "med_special_7",
+      "riskLevel": "moderate",
+      "caseCount": 2,
+      "hasClusterAlert": true,
+      "topOrganisms": [
+        {
+          "organism": "Staphylococcus aureus",
+          "count": 2
+        }
+      ],
+      "topSpecimens": [
+        {
+          "specimen": "เลือด",
+          "count": 2
+        }
+      ],
+      "recommendations": [
+        "พบ MRSA ในเลือด 2 ราย (9 ต.ค.) ต้องทบทวนกระบวนการดูแลสายสวนหลอดเลือดดำส่วนกลาง (CVC Care Bundle)",
+        "อาบน้ำผู้ป่วยด้วยสบู่ 4% Chlorhexidine gluconate เพื่อลดการปนเปื้อนของเชื้อบนผิวหนัง"
+      ],
+      "icBundles": [
+        "MRSA Decolonization",
+        "CVC Maintenance Bundle"
+      ]
+    },
+    "icu": {
+      "wardId": "icu",
+      "riskLevel": "moderate",
+      "caseCount": 1,
+      "hasClusterAlert": false,
+      "topOrganisms": [
+        {
+          "organism": "Acinetobacter baumannii",
+          "count": 1
+        }
+      ],
+      "topSpecimens": [
+        {
+          "specimen": "อื่นๆ",
+          "count": 1
+        }
+      ],
+      "recommendations": [
+        "แม้พบเพียง 1 ราย แต่เป็น CRAB_MDR_CoRO ในหอผู้ป่วยวิกฤต ซึ่งมีความเสี่ยงแพร่กระจายสูงมาก",
+        "แยกผู้ป่วยในห้องแยกความดันลบ (Negative pressure) หรือโซนแยกเดี่ยวเฉพาะ",
+        "เฝ้าระวังการใช้อุปกรณ์ช่วยหายใจและสายสวนแบบ Invasive ทุกชนิดอย่างใกล้ชิด"
+      ],
+      "icBundles": [
+        "Isolation Protocol",
+        "Multidrug Resistance Barrier"
+      ]
+    },
+    "hemodialysis": {
+      "wardId": "hemodialysis",
+      "riskLevel": "moderate",
+      "caseCount": 1,
+      "hasClusterAlert": false,
+      "topOrganisms": [
+        {
+          "organism": "Acinetobacter baumannii",
+          "count": 1
+        }
+      ],
+      "topSpecimens": [
+        {
+          "specimen": "เสมหะ",
+          "count": 1
+        }
+      ],
+      "recommendations": [
+        "พบ A. baumannii ดื้อยาในผู้ป่วยฟอกไต ต้องจัดเครื่องฟอกไตเฉพาะหรือฟอกในรอบสุดท้ายของวัน",
+        "ทำความสะอาดเครื่องฟอกไตและเก้าอี้นั่งด้วยน้ำยาฆ่าเชื้อมาตรฐานทันทีหลังเสร็จสิ้นรอบการฟอก"
+      ],
+      "icBundles": [
+        "Dialysis Machine Disinfection",
+        "Vascular Access Infection Control"
+      ]
+    },
+    "ob_gyn": {
+      "wardId": "ob_gyn",
+      "riskLevel": "moderate",
+      "caseCount": 1,
+      "hasClusterAlert": false,
+      "topOrganisms": [
+        {
+          "organism": "Staphylococcus aureus",
+          "count": 1
+        }
+      ],
+      "topSpecimens": [
+        {
+          "specimen": "หนอง/แผล/เนื้อเยื่อ",
+          "count": 1
+        }
+      ],
+      "recommendations": [
+        "พบ MRSA ในแผลผ่าตัดคลอด/นรีเวช เน้นย้ำการล้างมือก่อนสัมผัสทารกและมารดา",
+        "ติดตามแผลผ่าตัดอย่างต่อเนื่องจนถึงวันนัดตรวจหลังคลอด"
+      ],
+      "icBundles": [
+        "Postpartum Wound Care",
+        "Maternal Hand Hygiene"
+      ]
+    },
+    "cpk_2": {
+      "wardId": "cpk_2",
+      "riskLevel": "low",
+      "caseCount": 1,
+      "hasClusterAlert": false,
+      "topOrganisms": [
+        {
+          "organism": "Pseudomonas aeruginosa",
+          "count": 1
+        }
+      ],
+      "topSpecimens": [
+        {
+          "specimen": "เสมหะ",
+          "count": 1
+        }
+      ],
+      "recommendations": [
+        "พบ P. aeruginosa (MDR) ในเสมหะ 1 ราย ควบคุมความสะอาดของอุปกรณ์พ่นยาและเครื่องดูดเสมหะ",
+        "ใช้น้ำกลั่นปลอดเชื้อ (Sterile water) สำหรับกระบอกทำความชื้นเท่านั้น"
+      ],
+      "icBundles": [
+        "Nebulizer & Suction Hygiene",
+        "Standard Precautions"
+      ]
+    },
+    "default": {
+      "wardId": "default",
+      "riskLevel": "low",
+      "caseCount": 0,
+      "hasClusterAlert": false,
+      "topOrganisms": [],
+      "topSpecimens": [],
+      "recommendations": [
+        "ไม่พบรายงานเชื้อดื้อยาในเดือนนี้ ให้ปฏิบัติตามมาตรฐานการควบคุมการติดเชื้อ (Standard Precautions) อย่างต่อเนื่อง",
+        "เน้นการล้างมือ 5 ช่วงเวลา (5 Moments for Hand Hygiene) ทั้งก่อนและหลังสัมผัสผู้ป่วย",
+        "ติดตามเฝ้าระวังผลการเพาะเชื้อทางห้องปฏิบัติการอย่างสม่ำเสมอ หากพบผู้ป่วยติดเชื้อดื้อยาให้แยกโรคทันที"
+      ],
+      "icBundles": [
+        "Standard Precautions",
+        "Hand Hygiene 5 Moments",
+        "Lab Surveillance"
+      ]
+    }
+  },
+  "customPathogens": [],
+  "customSpecimens": [],
+  "lastUpdated": 1793435587814
+}

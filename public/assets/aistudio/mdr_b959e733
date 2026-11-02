@@ -1,0 +1,147 @@
+Spot map เชื้อดื้อยา รายวัน แยกตามหอผู้ป่วย — ต.ค.68,,,,,,,,,,,,,,,,,,
+แต่ละช่อง = เชื้อ / กลุ่มเชื้อ (RESIST) / กลุ่มสิ่งส่งตรวจ · เอา mouse ชี้ที่ช่องเพื่อดู HN และสิ่งส่งตรวจ (เดิม) · ×N = จำนวนรายของชุดเดียวกัน · วันที่พบหลายชุดในหอเดียวกันจะแยกเป็นหลายแถว,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+วันที่,อายุรกรรมหญิง,อายุรกรรมชาย,ผู้ป่วยหนัก,ศัลยกรรมชาย,ออโธปิดิกส์,กุมารเวช,เฉลิมพระเกียรติ ชั้น5,เฉลิมพระเกียรติ ชั้น2,เฉลิมพระเกียรติ ชั้น6,เฉลิมพระเกียรติ ชั้น3,อุบัติเหตุ-ฉุกเฉิน,พิเศษอายุรกรรม(ฉก7),ผู้ป่วยนอก,เฉลิมพระเกียรติ ชั้น4,ห้องผ่าตัด,สูติ-นรีเวช,ไตเทียม,รวม
+1,,"Acinetobacter baumannii
+A. Baumannii (CRAB_MDR)
+เสมหะ",,,,,,,,,,,,,,,,1
+2,,"Escherichia coli
+E. coli (MDR)
+ปัสสาวะ",,,,,,,,,,,,,,,,1
+3,,"Acinetobacter baumannii
+A. baumannii (CRAB_MDR)
+เสมหะ",,"Acinetobacter baumannii
+A. baumannii (CRAB_MDR_CoRO)
+หนอง/แผล/เนื้อเยื่อ","Pseudomonas aeruginosa
+P. aeruginosa (CRPA_MDR)
+หนอง/แผล/เนื้อเยื่อ",,,,,,,,,,,,,5
+,,"Klebsiella pneumoniae
+K. pneumoniae (CRE_MDR)
+ปัสสาวะ",,,,,,,,,,,,,,,,
+,,"Pseudomonas aeruginosa
+P. aeruginosa (CRPA_MDR)
+ปัสสาวะ",,,,,,,,,,,,,,,,
+4,,,,,,,"Acinetobacter baumannii
+A. baumannii (CRAB_MDR)
+หนอง/แผล/เนื้อเยื่อ","Pseudomonas aeruginosa
+P. aeruginosa (MDR)
+เสมหะ",,,,,,,,,,2
+5,,,,,,"Staphylococcus epidermidis
+S. epidermidis (MRSE)
+เลือด",,,,,,,,,,,,1
+6,,,,,,,,,"Achromobacter xylosoxidans ×2
+Achromobacter spp. (MDR)
+หนอง/แผล/เนื้อเยื่อ",,,,,,,,,2
+7,,,,,,,,,,,,,,,,,,0
+8,"Escherichia coli
+E. coli (CRE_MDR)
+ปัสสาวะ","Acinetobacter baumannii
+A. baumannii (CRAB_MDR_CoRO)
+เสมหะ",,,,,,,,,,,,,,,,3
+,,"Klebsiella aerogenes
+Enterobacter spp. (MDR)
+เสมหะ",,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,"Staphylococcus aureus ×2
+S. aureus (MRSA)
+เลือด",,,,,,2
+10,,,,,,"Acinetobacter baumannii
+A. baumannii (CoRO)
+เลือด",,,,,,,,,,,,1
+11,,,,,,,,,,,,,,,,,,0
+12,,"Escherichia coli
+E. coli (CRE_MDR)
+หนอง/แผล/เนื้อเยื่อ",,,,"Klebsiella pneumoniae
+K. pneumoniae (MDR)
+เลือด",,,,,,,,,,"Staphylococcus aureus
+S. aureus (MRSA)
+หนอง/แผล/เนื้อเยื่อ",,3
+13,,"Acinetobacter baumannii
+A. baumannii (CRAB_MDR_CoRO)
+เสมหะ",,,,,,,,,,,,,,,,2
+,,"Klebsiella aerogenes
+Enterobacter spp. (MDR)
+เสมหะ",,,,,,,,,,,,,,,,
+14,,,,,,"Staphylococcus haemolyticus
+CoNS อื่นๆ (MRSE)
+เลือด","Acinetobacter baumannii
+A. baumannii (CRAB_MDR_CoRO)
+หนอง/แผล/เนื้อเยื่อ",,,,,,,,,,,2
+15,,,"Acinetobacter baumannii
+A. baumannii (CRAB_MDR_CoRO)
+อื่นๆ",,,,,,,,,,,,,,,1
+16,"Escherichia coli
+E. coli (MDR)
+ปัสสาวะ","Escherichia coli
+E. coli (MDR)
+ปัสสาวะ",,"Acinetobacter baumannii
+A. baumannii (CRAB_MDR_CoRO)
+หนอง/แผล/เนื้อเยื่อ",,,,,,,,,,,,,,4
+,,,,"Pseudomonas stutzeri
+อื่นๆ (MDR)
+หนอง/แผล/เนื้อเยื่อ",,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,,,0
+18,"Escherichia coli
+E. coli (MDR)
+ปัสสาวะ",,,,,,,,,,,,,,,,,1
+19,,,,,,,,,,,,,,,,,,0
+20,,"Escherichia coli
+E. coli (MDR)
+ปัสสาวะ",,,,,,,,,,,,,,,,1
+21,,,,,,,,,,,,,,,,,,0
+22,,,,,"Escherichia coli
+E. coli (CRE_MDR)
+อื่นๆ",,,,"Escherichia coli
+E. coli (MDR)
+เสมหะ",,,,,,,,,4
+,,,,,,,,,"Staphylococcus capitis ×2
+CoNS อื่นๆ (MRSE)
+เลือด",,,,,,,,,
+23,,,,,,,,,,,,,,,,,,0
+24,,"Acinetobacter baumannii
+A. baumannii (CRAB_MDR)
+เสมหะ",,,,,,,,,,,,,,,,1
+25,,,,,,,,,,,,,,,,,,0
+26,,"Escherichia coli ×2
+E. coli (MDR)
+เลือด",,"Staphylococcus aureus
+S. aureus (MRSA)
+หนอง/แผล/เนื้อเยื่อ",,,,,,,,,,,,,,3
+27,"Escherichia coli
+E. coli (MDR)
+หนอง/แผล/เนื้อเยื่อ",,,,,,,,,,,,,,,,,2
+,"Staphylococcus aureus
+S. aureus (MRSA)
+อื่นๆ",,,,,,,,,,,,,,,,,
+28,"Escherichia coli
+E. coli (MDR)
+หนอง/แผล/เนื้อเยื่อ",,,,,"Klebsiella pneumoniae
+K. pneumoniae (MDR)
+หนอง/แผล/เนื้อเยื่อ",,,,,,,,,,,,2
+29,"Escherichia coli
+E. coli (MDR)
+ปัสสาวะ",,,,,,,,,,,,,,,,,3
+,"Escherichia coli ×2
+E. coli (MDR)
+เลือด",,,,,,,,,,,,,,,,,
+30,,,,"Pseudomonas stutzeri
+อื่นๆ (MDR)
+หนอง/แผล/เนื้อเยื่อ",,,,,,,,,,,,,"Acinetobacter baumannii
+A. baumannii (CRAB_MDR_CoRO)
+เสมหะ",2
+31,,,,,,,,,"Acinetobacter baumannii
+A. baumannii (CRAB_MDR)
+หนอง/แผล/เนื้อเยื่อ",,,,,,,,,1
+รวม,9,15,1,5,2,5,2,1,6,0,0,2,0,0,0,1,1,50
+,,,,,,,,,,,,,,,,,,
+,คำอธิบายสี (เชื้อที่พบในเดือนนี้),ราย,,,,,,,,,,,,,,,,
+,Escherichia coli,16,,,,,,,,,,,,,,,,
+,Acinetobacter baumannii,13,,,,,,,,,,,,,,,,
+,Klebsiella pneumoniae,3,,,,,,,,,,,,,,,,
+,Pseudomonas aeruginosa,3,,,,,,,,,,,,,,,,
+,Staphylococcus aureus,5,,,,,,,,,,,,,,,,
+,Staphylococcus epidermidis,1,,,,,,,,,,,,,,,,
+,Achromobacter xylosoxidans,2,,,,,,,,,,,,,,,,
+,Staphylococcus haemolyticus,1,,,,,,,,,,,,,,,,
+,Klebsiella aerogenes,2,,,,,,,,,,,,,,,,
+,Pseudomonas stutzeri,2,,,,,,,,,,,,,,,,
+,Staphylococcus capitis,2,,,,,,,,,,,,,,,,
